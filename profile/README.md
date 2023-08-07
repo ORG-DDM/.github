@@ -1,0 +1,71 @@
+## Hi there 👋
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+
+요구사항 분석
+No SaaS
+관리자 기능
+대시보드에 로그인하기
+일반 설정: 오픈 및 그룹 채널
+채널 정보 변경하기
+채널 메타데이터 관리하기
+관리자 메시지
+채널 메시지 전체 삭제하기
+채널 삭제하기
+오픈 및 그룹 채널 관리하기
+특정 메시지 관리하기
+오픈 채널
+그룹 채널
+관리자 메시지 보내기
+오픈 채널
+그룹 채널
+사용자 목록에서 관리하기: 오픈 및 그룹 채널
+사용자 차단하기
+사용자 계정 비활성화하기
+유저 기능
+1 : 1 채팅
+그룹 채널
+오픈 채널
+작성 중… 보이기
+전달됨 표시 → 전달 안됨 표시
+읽음 표시
+유저 온라인 표시
+이모지 리액션
+멘션
+유저
+채널 전체
+안읽은 숫자 표시
+신규 메세지 푸시 알림
+파일, 미디어 공유
+Structured messages(슬랙 메세지 같은거인듯)
+이미지, 동영상 같은거 썸네일 자동 생성
+쓰로틀링(초당 최대 몇개의 메세지를 보여줄 것인가)
+메세지 쓰레딩(슬랙 쓰레드 기능)
+메시지 검색
+유저 ,채널 검색
+메세지 핀
+예약 메세지
+투표 기능
+공지 기능
+유저 신고 기능
+유저 차단 기능
+유저 음소거
+채널 프리징
+욕설 필터
+일단 어디까지 구현할지 정하기
+V1 스펙
+유저기능 줄 안그은 것만
+뭘로 구현할지 정하기
+자프링
+로그인 방식(세션)
+채팅 통신 방식 HTTP, WebSocket
+디비 모델링
